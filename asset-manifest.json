@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/BeMyValentine/static/css/main.d07d22f9.css",
+    "main.js": "/BeMyValentine/static/js/main.ec315d20.js",
+    "static/media/picture4.gif": "/BeMyValentine/static/media/picture4.cb53d51564bcd2c435aa.gif",
+    "static/media/mymelodyangry.gif": "/BeMyValentine/static/media/mymelodyangry.a35595e66f394253727c.gif",
+    "static/media/goodjob.gif": "/BeMyValentine/static/media/goodjob.e281cfcaf6e40c4b9ab7.gif",
+    "static/media/picture3.gif": "/BeMyValentine/static/media/picture3.3464d135593005c10185.gif",
+    "static/media/picture1.png": "/BeMyValentine/static/media/picture1.d9518a80acbb4e58b964.png",
+    "static/media/melodyhappy.png": "/BeMyValentine/static/media/melodyhappy.0cf252f03d01752d4fb1.png",
+    "static/media/picture8.jpg": "/BeMyValentine/static/media/picture8.d0f82cb16551bb8bc965.jpg",
+    "static/media/picture6.jpg": "/BeMyValentine/static/media/picture6.a3ac3ac242d650f8ccd1.jpg",
+    "static/media/picture5.jpg": "/BeMyValentine/static/media/picture5.172c7c9fe24ccc3c71aa.jpg",
+    "static/media/picture2.jpg": "/BeMyValentine/static/media/picture2.3b328fd2db589765e1c9.jpg",
+    "static/media/picture7.jpg": "/BeMyValentine/static/media/picture7.9b16ab66e2f8c8a7c6a6.jpg",
+    "index.html": "/BeMyValentine/index.html",
+    "main.d07d22f9.css.map": "/BeMyValentine/static/css/main.d07d22f9.css.map",
+    "main.ec315d20.js.map": "/BeMyValentine/static/js/main.ec315d20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d07d22f9.css",
+    "static/js/main.ec315d20.js"
+  ]
+}
